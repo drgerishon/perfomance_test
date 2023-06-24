@@ -20,4 +20,4 @@
 
 # console.log('Sorted books have been written to', outputFilePath);
 
-# node: you can comment each print to console and run them individually
+# NOTE: you can comment each print to console and run them individually
