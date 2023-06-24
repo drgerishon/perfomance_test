@@ -1,0 +1,20 @@
+[
+  {
+    "title": "River between",
+    "author": "Ngugi wa Thiongo",
+    "genre": "Educational",
+    "published_date": "2022-02-15"
+  },
+  {
+    "title": "Rich dad poor dad",
+    "author": "Robert Kiyosaki",
+    "genre": "About Money",
+    "published_date": "2021-01-10"
+  },
+  {
+    "title": "Think and grow rich",
+    "author": "Napoleon Hill",
+    "genre": "Motivational",
+    "published_date": "2020-03-20"
+  }
+]
