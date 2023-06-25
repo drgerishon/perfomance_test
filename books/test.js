@@ -1,3 +1,8 @@
+//in this test.js file i have tried to optimized perfomance by Filter() and sort() i used in index.js
+//avoiding the inbuilt JavaScript methods could potentially lead to performance improvements
+// i have also used let instead of const to avoid retaining memory for data i no longer need.
+//run this file on the console by running: node test.js 
+
 const fs = require('fs');
 const readline = require('readline');
 const JSONStream = require('JSONStream');
